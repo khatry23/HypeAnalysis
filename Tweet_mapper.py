@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 11 20:47:07 2018
 
-@author: sajan
-"""
 #!/usr/bin/env python
 import re
 import sys
