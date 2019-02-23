@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 11 16:20:43 2018
 
-@author: sajan
-"""
 
 from twython import TwythonStreamer  
 import csv
